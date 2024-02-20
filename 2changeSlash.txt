@@ -1,2 +1,4 @@
 
 "./src/main/Main.java"
+"./src/main/SnakeGame.java"
+"./src/screen/GraphicOutputPanel.java"
